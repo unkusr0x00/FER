@@ -57,6 +57,7 @@ jupyterlab-widgets==3.0.9
 jupyterlab_pygments==0.3.0
 jupyterlab_server==2.25.2
 keras==2.15.0
+keras-vggface==0.6
 kiwisolver==1.4.5
 libclang==16.0.6
 Markdown==3.5.2
