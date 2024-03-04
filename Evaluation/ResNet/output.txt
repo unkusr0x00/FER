@@ -1,0 +1,50 @@
+Epoch 1/30
+804/804 [==============================] - ETA: 0s - loss: 1.9583 - accuracy: 0.3931
+Epoch 1: saving model to logs/model_checkpoint_resnet_20240303_082731.keras
+804/804 [==============================] - 1813s 2s/step - loss: 1.9583 - accuracy: 0.3931 - val_loss: 1.5166 - val_accuracy: 0.4567 - lr: 2.0000e-04
+Epoch 2/30
+804/804 [==============================] - ETA: 0s - loss: 1.5620 - accuracy: 0.4673
+Epoch 2: saving model to logs/model_checkpoint_resnet_20240303_082731.keras
+804/804 [==============================] - 1640s 2s/step - loss: 1.5620 - accuracy: 0.4673 - val_loss: 1.4087 - val_accuracy: 0.4830 - lr: 2.0000e-04
+Epoch 3/30
+804/804 [==============================] - ETA: 0s - loss: 1.4117 - accuracy: 0.5038
+Epoch 3: saving model to logs/model_checkpoint_resnet_20240303_082731.keras
+804/804 [==============================] - 1656s 2s/step - loss: 1.4117 - accuracy: 0.5038 - val_loss: 1.3694 - val_accuracy: 0.4891 - lr: 2.0000e-04
+Epoch 4/30
+804/804 [==============================] - ETA: 0s - loss: 1.3208 - accuracy: 0.5268
+Epoch 4: saving model to logs/model_checkpoint_resnet_20240303_082731.keras
+804/804 [==============================] - 1783s 2s/step - loss: 1.3208 - accuracy: 0.5268 - val_loss: 1.3827 - val_accuracy: 0.4891 - lr: 2.0000e-04
+Epoch 5/30
+804/804 [==============================] - ETA: 0s - loss: 1.2530 - accuracy: 0.5502
+Epoch 5: saving model to logs/model_checkpoint_resnet_20240303_082731.keras
+804/804 [==============================] - 2474s 3s/step - loss: 1.2530 - accuracy: 0.5502 - val_loss: 1.2986 - val_accuracy: 0.5115 - lr: 2.0000e-04
+Epoch 6/30
+804/804 [==============================] - ETA: 0s - loss: 1.1984 - accuracy: 0.5668
+Epoch 6: saving model to logs/model_checkpoint_resnet_20240303_082731.keras
+804/804 [==============================] - 2580s 3s/step - loss: 1.1984 - accuracy: 0.5668 - val_loss: 1.2925 - val_accuracy: 0.5204 - lr: 2.0000e-04
+Epoch 7/30
+804/804 [==============================] - ETA: 0s - loss: 1.1651 - accuracy: 0.5774
+Epoch 7: saving model to logs/model_checkpoint_resnet_20240303_082731.keras
+804/804 [==============================] - 2043s 3s/step - loss: 1.1651 - accuracy: 0.5774 - val_loss: 1.3033 - val_accuracy: 0.5202 - lr: 2.0000e-04
+Epoch 8/30
+804/804 [==============================] - ETA: 0s - loss: 1.1297 - accuracy: 0.5906
+Epoch 8: saving model to logs/model_checkpoint_resnet_20240303_082731.keras
+
+Epoch 8: ReduceLROnPlateau reducing learning rate to 0.0001.
+804/804 [==============================] - 2176s 3s/step - loss: 1.1297 - accuracy: 0.5906 - val_loss: 1.4060 - val_accuracy: 0.4899 - lr: 2.0000e-04
+Epoch 9/30
+804/804 [==============================] - ETA: 0s - loss: 1.0424 - accuracy: 0.6234
+Epoch 9: saving model to logs/model_checkpoint_resnet_20240303_082731.keras
+804/804 [==============================] - 2240s 3s/step - loss: 1.0424 - accuracy: 0.6234 - val_loss: 1.2710 - val_accuracy: 0.5312 - lr: 1.0000e-04
+Epoch 10/30
+804/804 [==============================] - ETA: 0s - loss: 1.0098 - accuracy: 0.6351
+Epoch 10: saving model to logs/model_checkpoint_resnet_20240303_082731.keras
+804/804 [==============================] - 1908s 2s/step - loss: 1.0098 - accuracy: 0.6351 - val_loss: 1.2747 - val_accuracy: 0.5425 - lr: 1.0000e-04
+Epoch 11/30
+804/804 [==============================] - ETA: 0s - loss: 0.9766 - accuracy: 0.6487
+Epoch 11: saving model to logs/model_checkpoint_resnet_20240303_082731.keras
+804/804 [==============================] - 2407s 3s/step - loss: 0.9766 - accuracy: 0.6487 - val_loss: 1.2825 - val_accuracy: 0.5449 - lr: 1.0000e-04
+Epoch 12/30
+804/804 [==============================] - ETA: 0s - loss: 0.9532 - accuracy: 0.6553
+Epoch 12: saving model to logs/model_checkpoint_resnet_20240303_082731.keras
+804/804 [==============================] - 2250s 3s/step - loss: 0.9532 - accuracy: 0.6553 - val_loss: 1.2803 - val_accuracy: 0.5398 - lr: 1.0000e-04

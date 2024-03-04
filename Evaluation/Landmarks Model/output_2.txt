@@ -1,0 +1,28 @@
+Epoch 1/50
+804/804 [==============================] - ETA: 0s - loss: 1.1012 - accuracy: 0.6539
+Epoch 1: saving model to logs\model_checkpoint_landmarks_20240304_095017.keras
+804/804 [==============================] - 941s 1s/step - loss: 1.1012 - accuracy: 0.6539 - val_loss: 1.2604 - val_accuracy: 0.5867 - lr: 1.0000e-04
+Epoch 2/50
+804/804 [==============================] - ETA: 0s - loss: 1.0937 - accuracy: 0.6554
+Epoch 2: saving model to logs\model_checkpoint_landmarks_20240304_095017.keras
+804/804 [==============================] - 950s 1s/step - loss: 1.0937 - accuracy: 0.6554 - val_loss: 1.2705 - val_accuracy: 0.5842 - lr: 1.0000e-04
+Epoch 3/50
+804/804 [==============================] - ETA: 0s - loss: 1.0815 - accuracy: 0.6603
+Epoch 3: saving model to logs\model_checkpoint_landmarks_20240304_095017.keras
+804/804 [==============================] - 944s 1s/step - loss: 1.0815 - accuracy: 0.6603 - val_loss: 1.2700 - val_accuracy: 0.5867 - lr: 1.0000e-04
+Epoch 4/50
+804/804 [==============================] - ETA: 0s - loss: 1.0745 - accuracy: 0.6602
+Epoch 4: saving model to logs\model_checkpoint_landmarks_20240304_095017.keras
+804/804 [==============================] - 947s 1s/step - loss: 1.0745 - accuracy: 0.6602 - val_loss: 1.2575 - val_accuracy: 0.5894 - lr: 1.0000e-04
+Epoch 5/50
+804/804 [==============================] - ETA: 0s - loss: 1.0679 - accuracy: 0.6654
+Epoch 5: saving model to logs\model_checkpoint_landmarks_20240304_095017.keras
+804/804 [==============================] - 948s 1s/step - loss: 1.0679 - accuracy: 0.6654 - val_loss: 1.2676 - val_accuracy: 0.5825 - lr: 1.0000e-04
+Epoch 6/50
+804/804 [==============================] - ETA: 0s - loss: 1.0594 - accuracy: 0.6669
+Epoch 6: saving model to logs\model_checkpoint_landmarks_20240304_095017.keras
+804/804 [==============================] - 948s 1s/step - loss: 1.0594 - accuracy: 0.6669 - val_loss: 1.2621 - val_accuracy: 0.5885 - lr: 1.0000e-04
+Epoch 7/50
+804/804 [==============================] - ETA: 0s - loss: 1.0489 - accuracy: 0.6684
+Epoch 7: saving model to logs\model_checkpoint_landmarks_20240304_095017.keras
+804/804 [==============================] - 948s 1s/step - loss: 1.0489 - accuracy: 0.6684 - val_loss: 1.2848 - val_accuracy: 0.5860 - lr: 1.0000e-04

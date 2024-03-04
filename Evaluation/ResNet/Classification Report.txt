@@ -1,0 +1,21 @@
+80/80 [==============================] - 150s 2s/step - loss: 1.2852 - accuracy: 0.5367
+Test accuracy:  0.5367008447647095
+80/80 [==============================] - 174s 2s/step
+Classification Report
+              precision    recall  f1-score   support
+
+       angry       0.54      0.41      0.47       724
+     disgust       0.63      0.47      0.54       724
+        fear       0.45      0.49      0.47       724
+       happy       0.72      0.76      0.74       724
+     neutral       0.44      0.61      0.51       724
+         sad       0.44      0.48      0.46       724
+    surprise       0.60      0.53      0.56       724
+
+    accuracy                           0.54      5068
+   macro avg       0.55      0.54      0.54      5068
+weighted avg       0.55      0.54      0.54      5068
+
+Weighted Precision: 0.547293699350564
+Weighted Recall: 0.5367008681925809
+Weighted F1-Score: 0.5365850620640918
